@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
